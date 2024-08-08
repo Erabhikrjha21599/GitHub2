@@ -11,7 +11,8 @@ import java.io.File;
 public class CreateFile_1 {
 
 	/**
-	 * @param args
+	 * vishal singh
+  
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
